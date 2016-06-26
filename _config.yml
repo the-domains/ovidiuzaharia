@@ -1,0 +1,28 @@
+name: Ovidiu Zaharia
+favicon: null
+layout_spectrum: 0.38042961549945176
+typography_spectrum: 0.9900808783713728
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.0041622985154390335
+  lightness: 0.10394244431518018
+  saturation: 0.8160009908024222
+  rhythmicContrast: 0.4051423463970423
+purpose: []
