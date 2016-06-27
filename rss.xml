@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ovidiu Zaharia]]></title>
         <description><![CDATA[Ovidiu Zaharia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://ovidiuzaharia.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 23:18:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 15:14:25 GMT</lastBuildDate>
+        <atom:link href="http://ovidiuzaharia.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test</p>]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>http://ovidiuzaharia.com/test/index.html</link>
             <guid isPermaLink="false">de383560-dfce-4306-9de4-712323c78aee</guid>
-            <pubDate>Sun, 26 Jun 2016 23:18:41 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2016 15:14:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
